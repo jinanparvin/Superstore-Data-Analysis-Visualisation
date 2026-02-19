@@ -13,18 +13,18 @@ Excel (Initial Data Source)
 
 **Business Impact Generated**
 
-Identified top 10 revenue-generating orders to highlight high-value transactions
-Discovered the highest contributing sub-categories to total profit (profit concentration analysis)
-Analysed customer purchasing patterns to identify repeat high-value customers
-Determined peak sales month using average sales trends
-Calculated the percentage profit contribution by sub-category for margin optimisation
-Ranked top-performing subcategories within each category using SQL window functions
+*Identified the top 10 revenue-generating orders to highlight high-value transactions
+*Discovered the highest contributing sub-categories to total profit (profit concentration analysis)
+*Analysed customer purchasing patterns to identify repeat high-value customers
+*Determined peak sales month using average sales trends
+*Calculated the percentage profit contribution by sub-category for margin optimisation
+*Ranked top-performing subcategories within each category using SQL window functions
 
 This analysis helps businesses:
-Focus on profitable product lines
-Target high-value customers
-Optimise seasonal sales strategies
-Improve revenue forecasting
+*Focus on profitable product lines
+*Target high-value customers
+*Optimise seasonal sales strategies
+*Improve revenue forecasting
 
 **Data Cleaning Process (SQL)**
 Established Primary & Foreign Key relationships
