@@ -7,9 +7,9 @@ The objective was to extract meaningful business insights related to sales, prof
 
 **Tools & Technologies Used**
 
-SQL (Data Cleaning & Analysis)
-Power BI (Dashboard & Visualisation)
-Excel (Initial Data Source)
+* SQL (Data Cleaning & Analysis)
+* Power BI (Dashboard & Visualisation)
+* Excel (Initial Data Source)
 
 **Business Impact Generated**
 
