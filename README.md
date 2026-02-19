@@ -21,35 +21,35 @@ Excel (Initial Data Source)
 * Ranked top-performing subcategories within each category using SQL window functions
 
 This analysis helps businesses:
-*Focus on profitable product lines
-*Target high-value customers
-*Optimise seasonal sales strategies
-*Improve revenue forecasting
+* Focus on profitable product lines
+* Target high-value customers
+* Optimise seasonal sales strategies
+* Improve revenue forecasting
 
 **Data Cleaning Process (SQL)**
-Established Primary & Foreign Key relationships
-Split combined columns (City, State, Country)
-Created a new Category column using product mapping
-Removed duplicates using CTE & ROW_NUMBER()
-Replaced null/blank values
-Standardised data types 
+* Established Primary & Foreign Key relationships
+* Split combined columns (City, State, Country)
+* Created a new Category column using product mapping
+* Removed duplicates using CTE & ROW_NUMBER()
+* Replaced null/blank values
+* Standardised data types 
 
 **Advanced SQL Techniques Used**
-CTE (Common Table Expressions)
-Window Functions (RANK, ROW_NUMBER)
-Aggregate Functions (SUM, AVG, COUNT)
-GROUP BY & HAVING
-Subqueries
-Data type conversion & validation
+* CTE (Common Table Expressions)
+* Window Functions (RANK, ROW_NUMBER)
+* Aggregate Functions (SUM, AVG, COUNT)
+* GROUP BY & HAVING
+* Subqueries
+
 
 **Dashboard Insights (Power BI)**
 
-The interactive dashboard provides:
-Total Sales & Total Profit KPIs
-Category & Sub-Category Performance
-Customer Sales Contribution
-Monthly Sales Trend Analysis
-Profit Contribution % Breakdown
+* The interactive dashboard provides:
+* Total Sales & Total Profit KPIs
+* Category & Sub-Category Performance
+* Customer Sales Contribution
+* Monthly Sales Trend Analysis
+* Profit Contribution % Breakdown
 
 Designed for decision-makers to quickly identify revenue trends and performance gaps
 
